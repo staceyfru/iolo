@@ -2,6 +2,11 @@ How to Sign In your System Mechanic Account? Manage Licenses and Subscriptions
 ===============================================================================
 If you're using iolo's System Mechanic to improve your computer’s speed and stability, then understanding how the **system mechanic sign** process works is essential. Whether you’ve just purchased the software or are managing multiple licenses, logging into your account allows you to unlock all its features.
 
+.. raw:: html
+
+   <div style="text-align:center;">
+       <a href="https://iolohelp.hostlink.click/desk/" rel="noreferrer" style="background-color:#007BFF;color:white;padding:10px 20px;text-decoration:none;border-radius:5px;display:inline-block;font-weight:bold;">Get Started with IOLO</a>
+   </div>
 From subscription renewals to license management, the **system mechanic sign** experience is designed to be fast and user-friendly. Most issues like device activation errors or expired subscriptions can be resolved by accessing your dashboard via the **system mechanic sign** page.
 
 In this guide, we will walk you through each step of the **system mechanic sign** process and explore what you can do once you are logged in.
